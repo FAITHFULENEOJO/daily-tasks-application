@@ -1,7 +1,7 @@
 # Daily Task Planner App
 This app allows the user to place a task they want to achieve at a specific time.
 
-## 📸 Screenshots
+## Screenshots
 
 | Section | Description | Screenshot |
 |--------|-------------|------------|
